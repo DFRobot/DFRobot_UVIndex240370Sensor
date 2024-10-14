@@ -1,0 +1,30 @@
+
+#######################################
+# Syntax Map For DFRobot_UVIndex240370Sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_UVIndex240370Sensor	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readUvOriginalData	KEYWORD2
+readUvIndexData	KEYWORD2
+readRiskLevelData	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
